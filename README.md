@@ -6,7 +6,7 @@
 
 - 🧑🏻‍🎓 Computer Science at University of Bari "Aldo Moro", Italy (Current)
 
-## **Exam Marks *[Actual GPA: 3.7]*** ##
+## **Exam Marks *[Actual GPA: 4.0]*** ##
 
 * Algoritmi e strutture dati (Algorithms and Data Structures) [9 CFU]: *30L/30*
 * Analisi Matematica (Mathematical Analysis) [6 CFU]: *30L/30*
