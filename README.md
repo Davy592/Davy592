@@ -15,6 +15,7 @@
 * Calcolo delle Probabilità e Statistica (Probability Calculation and Statistics) [6 CFU]: *30L/30*
 * Fondamenti di Fisica (Physics Fundamentals) [6 CFU]: *30L/30*
 * Laboratorio di Informatica (IT Lab) [6 CFU]: *25/30*
+  * Project: [BattleShip Enhanced Edition](https://github.com/Davy592/BattleShipEnhancedEdition)
 * Linguaggi di Programmazione (Programming Languages) [9 CFU]: *30L/30*
 * Matematica Discreta (Discrete Math) [9 CFU]: *27/30*
 * Programmazione (Programming) [12 CFU]: *28/30*
