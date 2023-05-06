@@ -1,10 +1,6 @@
-<center>
+# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I’m Davide, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />** #
 
-# **👋🏻 Hi, I’m Davide, from Italy! 🧑🏻‍💻** #
-
-</center>
-
-- 🧑🏻‍🎓 Computer Science at University of Bari "Aldo Moro", Italy (Current)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> Computer Science at University of Bari "Aldo Moro", Italy (Current)
 
 ## **Exam Marks *[Actual GPA: 4.0]*** ##
 
@@ -22,7 +18,6 @@
 
 ## **Stack:** ##
 
-![Immagine non disponibile](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")
 ![Immagine non disponibile](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
 ![Immagine non disponibile](https://img.shields.io/badge/java-f89820?style=for-the-badge "Java")
 ![Immagine non disponibile](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
