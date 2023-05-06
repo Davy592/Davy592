@@ -30,5 +30,5 @@
 ![Immagine non disponibile](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![Immagine non disponibile](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![Immagine non disponibile](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
-![Immagine non disponibile](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
-
+![Immagine non disponibile](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![Immagine non disponibile](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "MarkDown")
